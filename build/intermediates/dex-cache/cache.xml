@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazunamoe\Documents\ori1\mixarelib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="773de42addd41643a63c8bdbe71ae5a4bcd7e9f5">
+        <dex dex="C:\Users\nazunamoe\Documents\ori1\mixare\build\intermediates\pre-dexed\debug\classes_00c8a4ea7cf59b7b12537d1e061f72f628df890b.jar" />
+    </item>
+
+</items>

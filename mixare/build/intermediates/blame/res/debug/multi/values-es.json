@@ -1,0 +1,942 @@
+[
+    {
+        "outputFile": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 31,
+                    "endOffset": 82
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 31,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 87,
+                    "endColumn": 31,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 31,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 33,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endColumn": 33,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 33,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 33,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 31,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 31,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 33,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 33,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 33,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 33,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 31,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 31,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 48,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 3019,
+                        "endColumn": 45,
+                        "endOffset": 3063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 46,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2932,
+                        "endColumn": 43,
+                        "endOffset": 2974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 43,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 47,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2677,
+                        "endColumn": 44,
+                        "endOffset": 2720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 67,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2402,
+                        "endColumn": 64,
+                        "endOffset": 2465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 64,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 2467,
+                        "endColumn": 61,
+                        "endOffset": 2527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endLine": 17,
+                    "endColumn": 54,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2221,
+                        "endLine": 49,
+                        "endColumn": 54,
+                        "endOffset": 2400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 137,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 1876,
+                        "endColumn": 134,
+                        "endOffset": 2009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 67,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2011,
+                        "endColumn": 64,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 74,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2076,
+                        "endColumn": 71,
+                        "endOffset": 2146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 73,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2148,
+                        "endColumn": 70,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 100,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 3520,
+                        "endColumn": 97,
+                        "endOffset": 3616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 104,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 3418,
+                        "endColumn": 101,
+                        "endOffset": 3518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 155,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 155,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 56,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 2788,
+                        "endColumn": 53,
+                        "endOffset": 2840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 66,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2722,
+                        "endColumn": 63,
+                        "endOffset": 2784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 58,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 3065,
+                        "endColumn": 55,
+                        "endOffset": 3119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 46,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 2888,
+                        "endColumn": 43,
+                        "endOffset": 2930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endLine": 43,
+                    "endColumn": 10,
+                    "endOffset": 2606
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 709,
+                        "endLine": 32,
+                        "endColumn": 10,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2611,
+                    "endColumn": 50,
+                    "endOffset": 2657
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 2629,
+                        "endColumn": 47,
+                        "endOffset": 2675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2662,
+                    "endColumn": 48,
+                    "endOffset": 2706
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 2842,
+                        "endColumn": 45,
+                        "endOffset": 2886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2711,
+                    "endColumn": 77,
+                    "endOffset": 2784
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 3341,
+                        "endColumn": 74,
+                        "endOffset": 3414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2789,
+                    "endColumn": 52,
+                    "endOffset": 2837
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 3232,
+                        "endColumn": 49,
+                        "endOffset": 3280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2842,
+                    "endColumn": 53,
+                    "endOffset": 2891
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 3123,
+                        "endColumn": 50,
+                        "endOffset": 3172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2896,
+                    "endColumn": 60,
+                    "endOffset": 2952
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 3174,
+                        "endColumn": 57,
+                        "endOffset": 3230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2957,
+                    "endColumn": 59,
+                    "endOffset": 3012
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 3282,
+                        "endColumn": 56,
+                        "endOffset": 3337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3017,
+                    "endColumn": 55,
+                    "endOffset": 3068
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1551,
+                        "endColumn": 52,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3073,
+                    "endColumn": 45,
+                    "endOffset": 3114
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1604,
+                        "endColumn": 42,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3119,
+                    "endColumn": 44,
+                    "endOffset": 3159
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1647,
+                        "endColumn": 41,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3164,
+                    "endColumn": 44,
+                    "endOffset": 3204
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1689,
+                        "endColumn": 41,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3209,
+                    "endColumn": 48,
+                    "endOffset": 3253
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1731,
+                        "endColumn": 45,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3258,
+                    "endColumn": 51,
+                    "endOffset": 3305
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1777,
+                        "endColumn": 48,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3310,
+                    "endColumn": 48,
+                    "endOffset": 3354
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1826,
+                        "endColumn": 45,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3359,
+                    "endColumn": 98,
+                    "endOffset": 3453
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2531,
+                        "endColumn": 95,
+                        "endOffset": 2625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3458,
+                    "endColumn": 132,
+                    "endOffset": 3586
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 577,
+                        "endColumn": 129,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3591,
+                    "endColumn": 65,
+                    "endOffset": 3652
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 1,
+                        "startOffset": 3780,
+                        "endColumn": 62,
+                        "endOffset": 3841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3657,
+                    "endColumn": 71,
+                    "endOffset": 3724
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 1,
+                        "startOffset": 3843,
+                        "endColumn": 68,
+                        "endOffset": 3910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3729,
+                    "endColumn": 84,
+                    "endOffset": 3809
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 3620,
+                        "endColumn": 81,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3814,
+                    "endColumn": 53,
+                    "endOffset": 3863
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 53,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3868,
+                    "endColumn": 78,
+                    "endOffset": 3942
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 3702,
+                        "endColumn": 75,
+                        "endOffset": 3776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3947,
+                    "endColumn": 45,
+                    "endOffset": 3988
+                },
+                "from": {
+                    "file": "C:\\Users\\nazunamoe\\Documents\\ori1\\mixare\\src\\main\\res\\values-es\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 2976,
+                        "endColumn": 42,
+                        "endOffset": 3017
+                    }
+                }
+            }
+        ]
+    }
+]
